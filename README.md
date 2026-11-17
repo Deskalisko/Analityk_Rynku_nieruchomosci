@@ -1,2 +1,8 @@
-# Analityk-Rynku-nieruchomo-ci
-DKN_ISI_AI2_PI
+# Analityk-Rynku-nieruchomosci
+Dominik Kuraś
+Nikolas Kida
+Kamil Kopczyk
+
+AI2
+ISI
+PI
