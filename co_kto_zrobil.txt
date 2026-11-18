@@ -1,0 +1,1 @@
+dominik -> utworzenie repo, konfiguracja dockera i instalcja na nim php, laravela oraz pythona
