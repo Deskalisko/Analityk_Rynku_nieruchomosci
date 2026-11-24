@@ -27,3 +27,4 @@ docker logs analityk_python / laravel
 instalacja laravela
 
 docker compose run --rm --no-deps laravel bash -c "composer create-project laravel/laravel:^13.0 temp_app && shopt -s dotglob && mv temp_app/\* . && rm -rf temp_app"
+.
